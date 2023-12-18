@@ -1,0 +1,3 @@
+[submodule "git-task"]
+	path = git-task
+	url = https://github.com/trewos/git-task.git
