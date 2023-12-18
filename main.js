@@ -1,7 +1,7 @@
-function showAlert() {
-    alert('Ops..');
+function showText() {
+    console.log('Yepi!');
 }
 
 window.onload = function() {
-    showAlert();
+    showText();
 };
